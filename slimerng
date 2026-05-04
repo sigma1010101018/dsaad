@@ -1,6 +1,6 @@
 -- SoloScripts | Slime RNG
 -- Clean dark matte UI • Persistent settings • Auto-resume on teleport
-local LOADER_URL = "https://raw.githubusercontent.com/sigma1010101018/dsaad/refs/heads/main/slimerng"
+
 
 
 local Players = game:GetService("Players")
@@ -15,7 +15,7 @@ local LocalPlayer = Players.LocalPlayer
 -- Тогда при teleport-е скрипт сам подгрузится. Если оставить пустым — будет
 -- работать только сохранение/восстановление настроек.
 
-local LOADER_URL = "" -- например: "https://raw.githubusercontent.com/user/repo/main/SoloScripts.lua"
+local LOADER_URL = "https://raw.githubusercontent.com/sigma1010101018/dsaad/refs/heads/main/slimerng"
 
 -- =========================================================
 -- PERSISTENT STATE
