@@ -1,5 +1,7 @@
 -- SoloScripts | Slime RNG
 -- Clean dark matte UI • Persistent settings • Auto-resume on teleport
+local LOADER_URL = "https://raw.githubusercontent.com/sigma1010101018/dsaad/refs/heads/main/slimerng"
+
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
